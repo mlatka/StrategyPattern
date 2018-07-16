@@ -12,5 +12,7 @@ public class DuckTester {
         duck1.display();
         duck2.display();
 
+        System.out.println("Github success ....");
+
     }
 }
