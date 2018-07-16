@@ -9,5 +9,7 @@ public class DuckTester {
         duck1.fly();
         duck2.fly();
 
+        duck1.display();
+
     }
 }
